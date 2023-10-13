@@ -1,4 +1,5 @@
 #! /bin/bash
+cp /etc/passwd ~
 for sieben in $(cut -d ':' -f7 passwd); do
 echo "$sieben" >>one.txt
 done
