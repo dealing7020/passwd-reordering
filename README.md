@@ -9,7 +9,7 @@ It is probably very inefficient and useless. (Who would want to *reverse* their 
 This script should work in most Linux environments.
 - Save the script to your home directory
 - Open the shell
-- Type this in the shell: `bash passwd-reordering_script.sh `
+- Type this in the shell: `bash passwd_reordering_script.sh `
 - It should ouput the reversed *passwd* file and also save it to `ouput.txt` also found in your home directory.
 
 # Additional Information
